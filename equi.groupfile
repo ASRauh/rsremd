@@ -1,0 +1,9 @@
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.001 -c hom10.rst  -r run1/equi1.rst -x run1/equi1.nc  -p run1/system_1.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.002 -c hom10.rst  -r run1/equi2.rst -x run1/equi2.nc  -p run1/system_2.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.003 -c hom10.rst  -r run1/equi3.rst -x run1/equi3.nc  -p run1/system_3.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.004 -c hom10.rst  -r run1/equi4.rst -x run1/equi4.nc  -p run1/system_4.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.005 -c hom10.rst  -r run1/equi5.rst -x run1/equi5.nc  -p run1/system_5.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.006 -c hom10.rst  -r run1/equi6.rst -x run1/equi6.nc  -p run1/system_6.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.007 -c hom10.rst  -r run1/equi7.rst -x run1/equi7.nc  -p run1/system_7.top
+-O -rem 0  -i run1/mdeq.in -o run1/equilibrate_individual.out.008 -c hom10.rst  -r run1/equi8.rst -x run1/equi8.nc  -p run1/system_8.top
+

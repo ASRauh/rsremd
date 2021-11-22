@@ -1,0 +1,8 @@
+-O -rem 3  -i run1/remd.in -o run1/remd2_1.out -c run1/remd8.rst  -r run1/remd2_1.rst -x run1/remd2_1.nc  -p run1/system_1.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_2.out -c run1/remd8.rst  -r run1/remd2_2.rst -x run1/remd2_2.nc  -p run1/system_2.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_3.out -c run1/remd8.rst  -r run1/remd2_3.rst -x run1/remd2_3.nc  -p run1/system_3.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_4.out -c run1/remd8.rst  -r run1/remd2_4.rst -x run1/remd2_4.nc  -p run1/system_4.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_5.out -c run1/remd8.rst  -r run1/remd2_5.rst -x run1/remd2_5.nc  -p run1/system_5.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_6.out -c run1/remd8.rst  -r run1/remd2_6.rst -x run1/remd2_6.nc  -p run1/system_6.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_7.out -c run1/remd8.rst  -r run1/remd2_7.rst -x run1/remd2_7.nc  -p run1/system_7.top
+-O -rem 3  -i run1/remd.in -o run1/remd2_8.out -c run1/remd8.rst  -r run1/remd2_8.rst -x run1/remd2_8.nc  -p run1/system_8.top
